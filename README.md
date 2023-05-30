@@ -1,5 +1,7 @@
 # UW Madison GI Tract Segmentation Competition
 
+![output1](uwmadison1.jpg) | ![output2](uwmadison2.jpg)
+
 This repo contains my workspace for the UW Madison GI Tract Segmentation Compeition, where I ranked the 23rd and won a silver medal.
 
 My teammates Kolya Forrat and Artem Toporov and our final solution was a blend of 2.5D models and 3D models.
