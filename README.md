@@ -1,5 +1,7 @@
 # UW Madison GI Tract Segmentation Competition
 
+Sample Output 1            |  Sample Output 2
+:-------------------------:|:-------------------------:
 ![output1](uwmadison1.jpg) | ![output2](uwmadison2.jpg)
 
 This repo contains my workspace for the UW Madison GI Tract Segmentation Compeition, where I ranked the 23rd and won a silver medal.
